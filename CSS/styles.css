@@ -39,6 +39,7 @@ body {
     background-image: linear-gradient(180deg, #0000008c 0%, #0000008c 100%), url('https://res.cloudinary.com/djeaqj2sg/image/upload/v1685474007/Web%20Basic/Back-page/01.jpg');
     background-size: cover;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    /* clip-path: circle(74.3% at 51% 6%); */
     z-index: -1;
 }
 
