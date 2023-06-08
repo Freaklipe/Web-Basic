@@ -11,3 +11,7 @@ No requiere intalacion alguna. Simplemente uso uso desde el index.html
 
 ## Descargo
 El proyecto es una edicion a mi estilo de un tutorial, la funcion es solo demostrar el conocimiento adquirido.
+
+## Visualización 
+Está disponible a través de github pages
+[freaklipe.github.io/Web-Basic/]
